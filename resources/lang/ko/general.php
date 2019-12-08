@@ -189,7 +189,7 @@
     'some_features_disabled' => '데모 모드: 설치 시 일부 기능은 사용할 수 없습니다.',
     'site_name'				=> '사이트 명',
     'state'  				=> '주',
-    'status_labels'			=> '상태 딱지',
+    'status_labels'			=> '상태 라벨',
     'status'    			=> '상태',
     'supplier'              => '공급자',
     'suppliers'  			=> '공급자',
