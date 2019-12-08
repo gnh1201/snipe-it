@@ -9,7 +9,7 @@ return array(
     'license_name'   	=> '인증 대상',
     'purchase_date'   	=> '구매 일자',
     'purchased'   		=> '구매',
-    'seats'   			=> 'Seats',
+    'seats'   			=> '부수',
     'hardware'   		=> '하드웨어',
     'serial'   			=> '일련번호',
     'title'      		=> '라이선스',
