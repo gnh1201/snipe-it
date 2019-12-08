@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    'about_licenses_title'            => '라이선스 란',
+    'about_licenses_title'            => '라이선스에 대하여',
     'about_licenses'                  => '라이선스는 소프트웨어를 추적하는데 사용됩니다. 개인에게 반출 할 수 있는 수량이 정의되어 있습니다',
     'checkin'  					=> '라이선스 부수 확인',
     'checkout_history'  		=> '반출 이력',
